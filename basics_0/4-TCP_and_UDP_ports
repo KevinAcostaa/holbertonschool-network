@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Displays TCP and UDP ports that are currently listening with associated programs
 
-netstat -tulnp 2>/dev/null
+netstat -tulnp
