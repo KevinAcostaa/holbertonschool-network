@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
-"""
-muestra info sobre las conexiones a red y los puertos utilizafos
-"""
+
 netstat -tulnp
