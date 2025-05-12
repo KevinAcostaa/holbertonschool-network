@@ -1,0 +1,4 @@
+#!/usr/bin/ev bash
+# Script listens to port 98 an localhost IP
+
+nc -l -p 98 -s 127.0.0.2
